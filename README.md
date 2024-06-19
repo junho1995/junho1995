@@ -1,6 +1,6 @@
 <details>
   <summary>
-    skill
+  🚀 Skills
   </summary>
   <br>
   
